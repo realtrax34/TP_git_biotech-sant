@@ -6,3 +6,7 @@ GitHub est une plateforme en ligne qui permet de stocker des dépôts Git et de 
 Dans ce TP, j’ai appris à créer un dépôt GitHub, à le connecter à Google Colab et à créer un fichier texte.
 J’ai également découvert comment ajouter des fichiers, effectuer un commit et envoyer les modifications vers GitHub avec push.
 Enfin, j’ai appris l’importance des branches pour organiser le travail et gérer les différentes versions d’un projet.
+
+Idée de projet biotechnologique :
+
+Je souhaiterais étudier l’utilisation des microalgues pour contribuer à l’amélioration de la qualité de l’air. Git pourrait me permettre d’organiser les fichiers, de suivre les modifications et de conserver les différentes versions de ce projet.
