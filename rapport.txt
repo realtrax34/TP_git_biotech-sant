@@ -1,0 +1,8 @@
+Rapport TP : Git et GitHub
+
+Git est un système de contrôle de version qui permet de suivre les modifications des fichiers d’un projet.
+Il permet de conserver l’historique du travail et de revenir à une version précédente si nécessaire.
+GitHub est une plateforme en ligne qui permet de stocker des dépôts Git et de partager des projets.
+Dans ce TP, j’ai appris à créer un dépôt GitHub, à le connecter à Google Colab et à créer un fichier texte.
+J’ai également découvert comment ajouter des fichiers, effectuer un commit et envoyer les modifications vers GitHub avec push.
+Enfin, j’ai appris l’importance des branches pour organiser le travail et gérer les différentes versions d’un projet.
